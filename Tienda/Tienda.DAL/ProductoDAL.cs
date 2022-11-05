@@ -40,10 +40,8 @@ namespace Tienda.DAL
                             {
                                 Nombre = sdr["Nombre"].ToString(),
                                 Presentacion = sdr["Presentacion"].ToString(),
-                                PMayoreo = Convert.ToDouble(sdr["PMayoreo"]),
-                                PMenudeo = Convert.ToDouble(sdr["PMenudeo"]),
-                                Existencia = Convert.ToInt32(sdr["Existencia"]),
-                                CostoUnitario = Convert.ToDouble(sdr["CostoUnitario"]),
+                                FechaCaducidad = Convert.ToDateTime(sdr["FechaCaducidad"]),
+                                Precio = Convert.ToDouble(sdr["Precio"]),
                                 ImagenPath = sdr["ImagenPath"].ToString(),
                                 ProductoId = Convert.ToInt32(sdr["ProductoId"]),
                             });
@@ -79,13 +77,13 @@ namespace Tienda.DAL
                         while (sdr.Read())
                         {
                             ListaProductos.Add(new Producto 
-                            { 
+                            {
                                 Nombre = sdr["Nombre"].ToString(),
                                 Presentacion = sdr["Presentacion"].ToString(),
-                                PMayoreo = Convert.ToDouble(sdr["PMayoreo"]),
-                                PMenudeo = Convert.ToDouble(sdr["PMenudeo"]),
-                                Existencia = Convert.ToInt16(sdr["Existencia"]),
-                                CostoUnitario = Convert.ToDouble(sdr["CostoUnitario"])
+                                FechaCaducidad = Convert.ToDateTime(sdr["FechaCaducidad"]),
+                                Precio = Convert.ToDouble(sdr["Precio"]),
+                                ImagenPath = sdr["ImagenPath"].ToString(),
+                                ProductoId = Convert.ToInt32(sdr["ProductoId"]),
                             });
                         }
                         cn.Close();
