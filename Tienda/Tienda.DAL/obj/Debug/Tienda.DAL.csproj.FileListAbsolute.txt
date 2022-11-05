@@ -1,0 +1,11 @@
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\Tienda\Tienda\Tienda.DAL\obj\Debug\Tienda.DAL.csproj.AssemblyReference.cache
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\Tienda\Tienda\Tienda.DAL\obj\Debug\Tienda.DAL.csproj.CoreCompileInputs.cache
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\Tienda\Tienda\Tienda.DAL\bin\Debug\Tienda.DAL.dll
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\Tienda\Tienda\Tienda.DAL\bin\Debug\Tienda.DAL.pdb
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\Tienda\Tienda\Tienda.DAL\bin\Debug\Tienda.Contratos.dll
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\Tienda\Tienda\Tienda.DAL\bin\Debug\Tienda.Entities.dll
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\Tienda\Tienda\Tienda.DAL\bin\Debug\Tienda.Contratos.pdb
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\Tienda\Tienda\Tienda.DAL\bin\Debug\Tienda.Entities.pdb
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\Tienda\Tienda\Tienda.DAL\obj\Debug\Tienda.DAL.csproj.CopyComplete
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\Tienda\Tienda\Tienda.DAL\obj\Debug\Tienda.DAL.dll
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\Tienda\Tienda\Tienda.DAL\obj\Debug\Tienda.DAL.pdb
