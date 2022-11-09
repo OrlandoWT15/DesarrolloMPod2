@@ -38,5 +38,13 @@ namespace Tienda.WebAPI.Controllers
 
             return DatosProductos;
         }
+
+        [HttpGet]
+        public async Task<ObservableCollection<Producto>> ProductoPresentacion (string x)
+        {
+            DatosProductos = await Prod.ObtenerProductoPresentacion(x);
+
+            return DatosProductos;
+        }
     }
 }

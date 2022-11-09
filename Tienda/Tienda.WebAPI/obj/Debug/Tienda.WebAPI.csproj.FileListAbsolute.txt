@@ -145,7 +145,6 @@ D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tie
 D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
 D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.WebAPI\bin\es\System.Web.Http.resources.dll
 D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
-D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.WebAPI\obj\Debug\Tienda.WebAPI.csproj.AssemblyReference.cache
 D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.WebAPI\obj\Debug\Tienda.WebAPI.csproj.CoreCompileInputs.cache
 D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.WebAPI\obj\Debug\Tienda.WebAPI.csproj.CopyComplete
 D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.WebAPI\obj\Debug\Tienda.WebAPI.dll

@@ -7,3 +7,11 @@ D:\Materias\10\Desarrollo Movil Integral\Producto_2\Tienda\Tienda\Tienda.Contrat
 D:\Materias\10\Desarrollo Movil Integral\Producto_2\Tienda\Tienda\Tienda.Contratos\obj\Debug\Tienda.Contratos.dll
 D:\Materias\10\Desarrollo Movil Integral\Producto_2\Tienda\Tienda\Tienda.Contratos\obj\Debug\Tienda.Contratos.pdb
 D:\Materias\10\Desarrollo Movil Integral\Producto_2\Tienda\Tienda\Tienda.Contratos\obj\Debug\Tienda.Contratos.csproj.AssemblyReference.cache
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.Contratos\bin\Debug\Tienda.Contratos.dll
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.Contratos\bin\Debug\Tienda.Contratos.pdb
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.Contratos\bin\Debug\Tienda.Entities.dll
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.Contratos\bin\Debug\Tienda.Entities.pdb
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.Contratos\obj\Debug\Tienda.Contratos.csproj.CoreCompileInputs.cache
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.Contratos\obj\Debug\Tienda.Contratos.csproj.CopyComplete
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.Contratos\obj\Debug\Tienda.Contratos.dll
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.Contratos\obj\Debug\Tienda.Contratos.pdb

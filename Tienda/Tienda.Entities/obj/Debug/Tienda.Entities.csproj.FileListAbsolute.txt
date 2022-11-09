@@ -5,7 +5,6 @@ D:\Materias\10\Desarrollo Movil Integral\Producto_2\Tienda\Tienda\Tienda.Entitie
 D:\Materias\10\Desarrollo Movil Integral\Producto_2\Tienda\Tienda\Tienda.Entities\obj\Debug\Tienda.Entities.pdb
 D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.Entities\bin\Debug\Tienda.Entities.dll
 D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.Entities\bin\Debug\Tienda.Entities.pdb
-D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.Entities\obj\Debug\Tienda.Entities.csproj.AssemblyReference.cache
 D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.Entities\obj\Debug\Tienda.Entities.csproj.CoreCompileInputs.cache
 D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.Entities\obj\Debug\Tienda.Entities.dll
 D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\Tienda.Entities\obj\Debug\Tienda.Entities.pdb

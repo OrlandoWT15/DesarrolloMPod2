@@ -12,5 +12,6 @@ namespace Tienda.Contratos
     {
         Task<ObservableCollection<Producto>> ObtenerProductos();
         Task<ObservableCollection<Producto>> ObtenerProductosNombre(string nombre);
+        Task<ObservableCollection<Producto>> ObtenerProductoPresentacion(string presentacion);
     }
 }

@@ -100,5 +100,45 @@ namespace Tienda.DAL
                 return (ListaProductos);
             }
         }
+        public async Task<ObservableCollection<Producto>> ObtenerProductoPresentacion(string presentacion)
+        {
+            ObservableCollection<Producto> ListaProductos = new ObservableCollection<Producto>();
+            using (SqlConnection cn = new SqlConnection(dbconexion))
+            {
+                SqlCommand cmd = new SqlCommand("ObtenerProductoPresentacion", cn);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@Presentacion", presentacion);
+                try
+                {
+                    await cn.OpenAsync();
+                    SqlDataReader sdr = await cmd.ExecuteReaderAsync();
+                    if (sdr.HasRows)
+                    {
+                        while (sdr.Read())
+                        {
+                            ListaProductos.Add(new Producto
+                            {
+                                Nombre = sdr["Nombre"].ToString(),
+                                Presentacion = sdr["Presentacion"].ToString(),
+                                FechaCaducidad = Convert.ToDateTime(sdr["FechaCaducidad"]),
+                                Precio = Convert.ToDouble(sdr["Precio"]),
+                                ImagenPath = sdr["ImagenPath"].ToString(),
+                                ProductoId = Convert.ToInt32(sdr["ProductoId"]),
+                            });
+                        }
+                        cn.Close();
+                    }
+                    else
+                    {
+                        ListaProductos = null;
+                    }
+                }
+                catch (Exception)
+                {
+                    cn.Close();
+                }
+                return (ListaProductos);
+            }
+        }
     }
 }

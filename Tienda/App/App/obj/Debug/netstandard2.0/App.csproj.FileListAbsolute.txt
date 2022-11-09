@@ -1,0 +1,16 @@
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\App\App\obj\Debug\netstandard2.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\App\App\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\App\App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\App\App\obj\Debug\netstandard2.0\Views\AccessApp\HomeUser.xaml.g.cs
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\App\App\obj\Debug\netstandard2.0\Views\AccessApp\LoginPage.xaml.g.cs
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\App\App\obj\Debug\netstandard2.0\App.AssemblyInfoInputs.cache
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\App\App\obj\Debug\netstandard2.0\App.AssemblyInfo.cs
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\App\App\obj\Debug\netstandard2.0\App.csproj.CoreCompileInputs.cache
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\App\App\obj\Debug\netstandard2.0\App.dll
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\App\App\obj\Debug\netstandard2.0\ref\App.dll
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\App\App\obj\Debug\netstandard2.0\App.pdb
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\App\App\bin\Debug\netstandard2.0\App.deps.json
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\App\App\bin\Debug\netstandard2.0\App.dll
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\App\App\bin\Debug\netstandard2.0\ref\App.dll
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\App\App\bin\Debug\netstandard2.0\App.pdb
+D:\Materias\10\Desarrollo Movil Integral\Producto_2\TiendaV0\DesarrolloMPod2\Tienda\App\App\obj\Debug\netstandard2.0\XamlC.stamp
